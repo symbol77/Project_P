@@ -6,7 +6,7 @@
 * Cadmium implementation of CD++ Sender atomic model
 */
 
-/* believe in the change */
+/* branch boi */
 
 #ifndef BOOST_SIMULATION_PDEVS_BS_HPP
 #define BOOST_SIMULATION_PDEVS_BS_HPP
